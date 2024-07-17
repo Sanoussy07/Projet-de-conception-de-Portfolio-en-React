@@ -1,0 +1,35 @@
+.testimonials-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    text-align: center;
+  }
+  
+  .testimonials-container h2 {
+    color: #007bff; /* Couleur bleue vive */
+    border-bottom: 2px solid #007bff; /* Barre de séparation */
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    text-transform: uppercase; /* Texte en majuscules */
+  }
+  
+  .testimonials-container p {
+    margin-bottom: 20px;
+  }
+  
+  .testimonials-container a {
+    display: inline-block;
+    background-color: #007bff; /* Couleur bleue vive */
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .testimonials-container a:hover {
+    background-color: #0056b3; /* Couleur bleue foncée au survol */
+  }
+  
